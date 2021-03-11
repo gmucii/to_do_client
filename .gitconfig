@@ -1,0 +1,5 @@
+[user]
+        name = gmucii
+        email = gm.post01@gmail.com
+[merge]
+        tool = vimdiff
